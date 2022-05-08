@@ -1,0 +1,14 @@
+.shopBorder {
+  width: 1386px;
+}
+
+
+.Store {
+  border-right: 2px solid #000;
+  border-left: 2px solid #000;
+  max-width: 1386px;
+  margin: auto;
+  scroll-snap-align: start;
+  height: 94vh;
+  background-color: #f7efe7;
+}

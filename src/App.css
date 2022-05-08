@@ -1,0 +1,23 @@
+body {
+  margin-top: 6vh;
+  font-family: "Maven Pro";
+  background-color: #f7efe7;
+  overflow-x:hidden;
+  
+}
+
+.container {
+  height: 94vh;
+  display: flex;
+  background-color: #f7efe7;
+  flex-direction: column;
+  align-items: center;
+  ;
+}
+
+
+@media screen and (max-width: 859px) {
+  .container {
+    width: 100%;
+  }
+}
