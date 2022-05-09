@@ -3,7 +3,7 @@ import "./store.css";
 // import ReactPaginate from 'react-paginate'
 
 function Store() {
-  const [content, setContent] = useState("fückyou");
+  const [content, setContent] = useState();
 
   useEffect(() => {
     const getProducts = async () => {
